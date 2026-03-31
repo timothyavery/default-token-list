@@ -3095,5 +3095,12 @@
     "symbol": "CHECK",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69231/large/VgVwfk9E_400x400.png?1761800742"
-  }
+  },}
+  {
+  "address": "elt.tkn.near",
+  "name": "ELT Token",
+  "symbol": "ELT",
+  "decimals": 18,
+  "logoURI": "https://i.postimg.cc/Jz9b21Rn/Extemporaneous-Life-Token-Background-Removed-Background-Removed.png"
+}
 ]
